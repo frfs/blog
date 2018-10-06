@@ -80,7 +80,9 @@ pagination_dir: page
 theme: hexo-theme-apollo
 theme_config:
   rss: 
-  twitter: Dimension_dc
+  social:
+    twitter: https://twitter.com/Dimension_dc
+    mastodon: https://mstdn.f72u.net/@frfr
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

@@ -1,4 +1,4 @@
 [submodule "themes/hexo-theme-apollo"]
 	path = themes/hexo-theme-apollo
-	url = https://github.com/joyceim/hexo-theme-apollo
+	url = https://github.com/frfs/hexo-theme-apollo
 	ignore = dirty
