@@ -61,6 +61,7 @@ category_map:
 
 tag_map:
   - キーボード
+  - Mastodon
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
